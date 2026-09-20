@@ -173,8 +173,10 @@
   </plurals>
   <string name="moveTimes">Время на ход</string>
   <string name="flipBoard">Перевернуть доску</string>
+  <string name="toggleLocalEngine">Переключать локальный движок</string>
   <string name="engineSettings">Настройки движка</string>
   <string name="enginesFromStrongestToWeakest">Движки от сильнейших к слабейшим</string>
+  <string name="illegalPosition">Нелегальная позиция</string>
   <string name="threefoldRepetition">Троекратное повторение позиции</string>
   <string name="claimADraw">Потребовать ничью</string>
   <string name="drawClaimed">Объявлена ничья</string>
@@ -798,6 +800,7 @@
   <string name="keyboardShortcuts">Горячие клавиши</string>
   <string name="keyMoveBackwardOrForward">ход назад/вперёд</string>
   <string name="keyGoToStartOrEnd">в начало/конец</string>
+  <string name="keyGoToPreviousOrNextLine">Перейдите к предыдущей/следуйщей линии</string>
   <string name="keyCycleSelectedVariation">Прокручивать выбранный вариант</string>
   <string name="keyShowOrHideComments">показать/скрыть комментарии</string>
   <string name="keyShowOrHideCurrentVariation">показать/скрыть текущий вариант</string>

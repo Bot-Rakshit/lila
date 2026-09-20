@@ -501,7 +501,7 @@ At spille ratede partier vil øge stabiliteten.</string>
   <string name="join">Deltag</string>
   <string name="withdraw">Frameld</string>
   <string name="points">Points</string>
-  <string name="wins">Gevinster</string>
+  <string name="wins">Sejre</string>
   <string name="losses">Tabte</string>
   <string name="startingIn" comment="Displayed above a timer">Starter om</string>
   <string name="standByX">Et øjeblik %s, parrer spillere – gør dig klar!</string>
